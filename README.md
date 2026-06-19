@@ -18,6 +18,10 @@ This project simulates a sophisticated phishing operation in a controlled lab en
 - **Ubuntu Server** – Hosting environment
 - **Windows/Kali** – Victim and attacker simulation
 
+## Diagram 
+<img width="1536" height="1024" alt="d3ad187c-76a8-4ef5-b4d7-5db88baf105f" src="https://github.com/user-attachments/assets/e087f50b-0c54-4dba-b700-3f1f58d5d91b" />
+
+
 ## 📁 Project Structure
 phishing-kill-chain/
 ├── README.md
