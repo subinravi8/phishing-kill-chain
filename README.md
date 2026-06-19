@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎣 End-to-End Phishing Kill Chain Simulator
 
 A complete Red Team simulation demonstrating the entire attack lifecycle—from reconnaissance to credential harvesting and lateral movement.
@@ -50,3 +51,7 @@ This project is for **educational purposes only**. Unauthorized use against real
 
 ## 📄 Full Report
 See [docs/report.md](docs/report.md) for the detailed attack narrative and defensive recommendations.
+=======
+# phishing-kill-chain
+End-to-End Phishing Kill Chain simulation
+>>>>>>> cfb68a541a44039dd5d3b8b3bd9c630c473cf97c
