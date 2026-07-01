@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a11be579-ad10-448f-8664-0a522ec1644b"
        alt="End-to-End Phishing Kill Chain"
-       width="250">
+       width="400">
 </p>
 
 A complete Red Team simulation demonstrating the entire attack lifecycle—from reconnaissance to credential harvesting and lateral movement.
