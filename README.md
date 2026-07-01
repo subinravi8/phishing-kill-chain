@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # 🎣 End-to-End Phishing Kill Chain Simulator
-<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/a11be579-ad10-448f-8664-0a522ec1644b" />
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/a11be579-ad10-448f-8664-0a522ec1644b" />
 
 A complete Red Team simulation demonstrating the entire attack lifecycle—from reconnaissance to credential harvesting and lateral movement.
 
