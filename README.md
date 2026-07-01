@@ -21,33 +21,7 @@ This project simulates a sophisticated phishing operation in a controlled lab en
 ## Diagram 
 <img width="1536" height="1024" alt="d3ad187c-76a8-4ef5-b4d7-5db88baf105f" src="https://github.com/user-attachments/assets/e087f50b-0c54-4dba-b700-3f1f58d5d91b" />
 
-
-## 📁 Project Structure
-
-```text
-phishing-kill-chain/
-├── README.md                        # Project overview & setup
-├── LICENSE                          # MIT License
-├── docs/
-│   └── report.md                    # Full attack narrative & defense recommendations
-├── scripts/
-│   ├── lateral_movement.py          # SSH post-exploit script (Paramiko)
-│   ├── recon_email_finder.py        # OSINT reconnaissance placeholder
-│   ├── credential_harvest.py        # Credential logging placeholder
-│   ├── email_template.html          # Raw phishing email HTML
-│   ├── landing_page.html            # Raw fake login page HTML
-│   └── employees.csv                # Dummy target list
-├── configs/
-│   ├── gophish_config.json          # Gophish server configuration
-│   ├── spf_dkim_dmarc.txt           # Sample email authentication records
-│   └── ssl_nginx.conf               # Sample SSL/TLS config for Nginx
-├── screenshots/
-│   ├── gophish_dashboard.png        # Gophish admin panel
-│   ├── email_template.png           # Phishing email preview
-│   ├── landing_page.png             # Fake login page preview
-│   ├── credentials_captured.png     # Captured username/password in Gophish
-│   ├── campaign_results.png         # Gophish campaign statistics
-│   └── post_exploit.png             # Successful SSH lateral movement output
+ost_exploit.png             # Successful SSH lateral movement output
 ```
 
 ## 🚀 How to Run (Lab Setup)
